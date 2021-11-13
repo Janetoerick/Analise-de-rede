@@ -1,2 +1,2 @@
 # Analise-de-rede
-Arquivos referentes à disciplina análise de rede no qual cada pasta tem referência a uma atividade da matéria.
+Arquivos referentes à disciplina análise de rede no qual cada pasta é uma atividade realizada na matéria.
